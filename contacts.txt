@@ -1,1 +1,1 @@
-Andrii / 456789456123 / And@gmail.com / 
+Andrii / 456789456123 / And@gmail.com / & C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py" / an / dsd / 

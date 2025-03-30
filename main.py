@@ -12,7 +12,7 @@ file.write(' / ')
 if len(phon) == 12:
     file.write(phon)
     file.write(' / ')
-if mail.count('@') == 1:
+if mail.count('@.') == 1:
     file.write(mail)
     file.write(' / ')
     file.write('\n')
@@ -20,5 +20,7 @@ if mail.count('@') == 1:
     print('✅ Контакт успешно добавлен!')
 else:
     print('❌ Неверный выбор. Попробуйте снова.')
+    print('❌ Сконтролируйте наличее 12 чисел в номере телефоне!.')
+    print('❌ Проверте правильность написания emale!.')
 
     

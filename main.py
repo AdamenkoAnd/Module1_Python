@@ -34,6 +34,8 @@ def add_contact():
         name = check_name_contact()
         phone = check_phone_contact()
         email = check_email_contact()
+        contacts = [name, str(phone), email]
+        save_to_file(contacts)
 
 main_contakt()
 add_contact()

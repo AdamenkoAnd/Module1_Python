@@ -2,3 +2,24 @@
 
 Andrii/454545454545/ddd@ddd.aa
 fdfdfd/454545454545/sss@ddd.ff
+Andrii/454545454545/aaa@aa.aa
+Oleh/474747474747/ooo@oo.o
+Olya/454545454545/ooo@oo.o
+Andrii/121212121212/aaa@aa.a
+Valera/565656565656/vvv@vv.v
+ААА/788888787878/ффф@ll.jj
+SSS/121212121212/AAA@jjj.ll
+fff/454545454545/sss@gg.f
+& C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py"/444444444444/kkk@ll.ff
+oooo/787878787887/kkk@ll.kk
+ппп/656565656565/aaa@ss.hh
+lllll/454545454545/ddd@ff.hh
+fff/454545454545/ddd@ww.
+ddd/787878787878/AAA@eee.e
+& C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py"/232323232323/ggg@ff.F
+ddd/232323232323/ddd@g.h
+& C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py"/232323232323/аааа@ff.f
+& C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py"/121212121212/aaa@kk.jj
+& C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py"/454545454545/sss@dd.f
+Andrii/787878787878/aaa@h.s
+& C:/Python313/python.exe "c:/Users/User/Desktop/StepIT Python/Modul 1/main.py"/454544545454/ASA@.FG
